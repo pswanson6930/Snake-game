@@ -1,2 +1,2 @@
 # Snake-game
-Test game
+Test game from class.
